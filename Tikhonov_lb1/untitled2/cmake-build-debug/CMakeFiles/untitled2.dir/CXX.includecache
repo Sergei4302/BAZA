@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cergey/CLionProjects/untitled2/Cells.cpp
+Cells.h
+/home/cergey/CLionProjects/untitled2/Cells.h
+
+/home/cergey/CLionProjects/untitled2/Cells.h
+
+/home/cergey/CLionProjects/untitled2/Field.cpp
+Field.h
+/home/cergey/CLionProjects/untitled2/Field.h
+Cells.h
+/home/cergey/CLionProjects/untitled2/Cells.h
+iostream
+-
+
+/home/cergey/CLionProjects/untitled2/Field.h
+Cells.h
+/home/cergey/CLionProjects/untitled2/Cells.h
+
+/home/cergey/CLionProjects/untitled2/main.cpp
+Field.h
+/home/cergey/CLionProjects/untitled2/Field.h
+

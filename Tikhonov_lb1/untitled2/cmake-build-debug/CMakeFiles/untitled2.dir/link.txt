@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/untitled2.dir/main.cpp.o CMakeFiles/untitled2.dir/Field.cpp.o CMakeFiles/untitled2.dir/Cells.cpp.o -o untitled2 
