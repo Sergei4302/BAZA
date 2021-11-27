@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cergey/CLionProjects/game_v2/Cell.h
+Enum.h
+/home/cergey/CLionProjects/game_v2/Enum.h
+Item.h
+/home/cergey/CLionProjects/game_v2/Item.h
+Player.h
+/home/cergey/CLionProjects/game_v2/Player.h
+Enemy.h
+/home/cergey/CLionProjects/game_v2/Enemy.h
+
+/home/cergey/CLionProjects/game_v2/Enemy.h
+Enum.h
+/home/cergey/CLionProjects/game_v2/Enum.h
+
+/home/cergey/CLionProjects/game_v2/Enum.h
+
+/home/cergey/CLionProjects/game_v2/Item.h
+Enum.h
+/home/cergey/CLionProjects/game_v2/Enum.h
+
+/home/cergey/CLionProjects/game_v2/Player.h
+Enum.h
+/home/cergey/CLionProjects/game_v2/Enum.h
+
+/home/cergey/CLionProjects/game_v2/field.cpp
+field.h
+/home/cergey/CLionProjects/game_v2/field.h
+iostream
+-
+
+/home/cergey/CLionProjects/game_v2/field.h
+Cell.h
+/home/cergey/CLionProjects/game_v2/Cell.h
+
