@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cergey/ооп/Я/game_v2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cergey/ооп/Я/game_v2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cergey/ооп/Я/game_v2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled3">
+				<Option output="/home/cergey/ооп/Я/game_v2/cmake-build-debug/untitled3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cergey/ооп/Я/game_v2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled3"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled3/fast">
+				<Option output="/home/cergey/ооп/Я/game_v2/cmake-build-debug/untitled3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cergey/ооп/Я/game_v2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled3/fast"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/game_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/Interface/Interface.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/Interface/Interface.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/InterfaceUnit/LiveType.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/InterfaceUnit/LiveType.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/InterfaceUnit/Unit.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/InterfaceUnit/Unit.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/PLAYER.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/PLAYER.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/Things/Things.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/Things/Things.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/Things/sword.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/Things/sword.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/enemy/BARBARIAN.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/enemy/BARBARIAN.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/enemy/KNIGHT.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/enemy/KNIGHT.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/enemy/WARIOR.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/LIve/enemy/WARIOR.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/bilder/fieldbilder.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/bilder/fieldbildertree.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/bilder/fieldbildertree.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/bilder/fielddirector.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/bilder/fielddirector.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/element`s/Enum.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/main.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/map/Cell.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/map/Cell.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/map/field.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/map/field.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/start.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/start.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/cergey/ооп/Я/game_v2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
