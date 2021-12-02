@@ -5,7 +5,7 @@ Fieldbildertree::Fieldbildertree() {
 }
 
 Fieldbildertree::~Fieldbildertree() {
-    delete this->field;
+    delete field;
 }
 
 
@@ -32,7 +32,7 @@ void Fieldbildertree::GeneratWallDungeonCells(int x1, int y1, int x2, int y2, in
                 }
                 for (int i = y1 + 1; i < y2 ; ++i) {
                     if (i != (int) ((y1 + y2) / 2)) {
-                        Cell cell(Type::WALL,Elem::WALL);
+                        Cell cell(Type::WALL);
                         this->field->setCell(i,wall_index,cell);
                     }
                 }
@@ -56,7 +56,7 @@ void Fieldbildertree::GeneratWallDungeonCells(int x1, int y1, int x2, int y2, in
                 }
                 for (int i = x1 + 1; i < x2 ; ++i) {
                     if (i != (int) ((x1 + x2) / 2)) {
-                        Cell cell(Type::WALL,Elem::WALL);
+                        Cell cell(Type::WALL);
                         this->field->setCell(wall_index,i,cell);
                     }
                 }
@@ -70,7 +70,7 @@ void Fieldbildertree::GeneratWallDungeonCells(int x1, int y1, int x2, int y2, in
 void Fieldbildertree::GeneratNo_wallCells(int h, int w){
     for (int i = 0; i < HIGHT; i++) {
         for (int j = 0; j < WIDTH; j++) {
-            Cell cell(Type::NORMAL, Elem::NO_WALL);
+            Cell cell(Type::NORMAL);
             this->field->setCell(i, j, cell);
         }
     }
@@ -79,7 +79,7 @@ void Fieldbildertree::GeneratWallCells(int h, int w){
     for (int i = 0; i < HIGHT; ++i) {
         for (int j = 0; j < WIDTH; ++j) {
             if (i == 0 || i == h -1 || j == 0 || j == w - 1){
-                Cell cell(Type::WALL, Elem::WALL);
+                Cell cell(Type::WALL);
                 this->field->setCell(i,j,cell);
             }
         }
@@ -95,12 +95,12 @@ void Fieldbildertree::GeneratWallCells(int h, int w){
 };
 
 void Fieldbildertree::GeneratEntryCell(int h, int w){
-    Cell cell(Type::ENTRY,Elem::NO_WALL);
+    Cell cell(Type::ENTRY);
     this->field->setCell(1,1,cell);
 }
 
 void Fieldbildertree::GeneratExitCell(int h, int w){
-    Cell cell(Type::EXIT,Elem::NO_WALL);
+    Cell cell(Type::EXIT);
     this->field->setCell(HIGHT-2, WIDTH-2, cell);
 }
 

@@ -1,6 +1,6 @@
 #include "Bcreate.h"
 
 Unit* Bcreate::CreateUnit() {
-    return new Barbarian();
+    return new Car();
 }
 

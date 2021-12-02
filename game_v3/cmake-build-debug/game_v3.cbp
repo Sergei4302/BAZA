@@ -103,6 +103,12 @@
 		<Unit filename="/home/cergey/CLionProjects/game_v3/Create/Wcreate.h">
 			<Option target="game_v3"/>
 		</Unit>
+		<Unit filename="/home/cergey/CLionProjects/game_v3/Draw.cpp">
+			<Option target="game_v3"/>
+		</Unit>
+		<Unit filename="/home/cergey/CLionProjects/game_v3/Draw.h">
+			<Option target="game_v3"/>
+		</Unit>
 		<Unit filename="/home/cergey/CLionProjects/game_v3/Interface/Interface.cpp">
 			<Option target="game_v3"/>
 		</Unit>
@@ -127,16 +133,22 @@
 		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/PLAYER.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Bonusheal.cpp">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Apple_tree.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Bonusheal.h">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Apple_tree.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Hil.cpp">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Power.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Hil.h">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Power.h">
+			<Option target="game_v3"/>
+		</Unit>
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Shawarma.cpp">
+			<Option target="game_v3"/>
+		</Unit>
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Shawarma.h">
 			<Option target="game_v3"/>
 		</Unit>
 		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Things.cpp">
@@ -145,28 +157,22 @@
 		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/Things.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/sword.cpp">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/Car.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/Things/sword.h">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/Car.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/BARBARIAN.cpp">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/Children.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/BARBARIAN.h">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/Children.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/KNIGHT.cpp">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/Redneck.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/KNIGHT.h">
-			<Option target="game_v3"/>
-		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/WARIOR.cpp">
-			<Option target="game_v3"/>
-		</Unit>
-		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/WARIOR.h">
+		<Unit filename="/home/cergey/CLionProjects/game_v3/LIve/enemy/Redneck.h">
 			<Option target="game_v3"/>
 		</Unit>
 		<Unit filename="/home/cergey/CLionProjects/game_v3/Move/Move.cpp">

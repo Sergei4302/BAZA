@@ -3,8 +3,8 @@
 #ifndef UNTITLED3_FIELD_H
 #define UNTITLED3_FIELD_H
 
-#define HIGHT 10
-#define WIDTH 10
+#define HIGHT 15
+#define WIDTH 30
 
 #include "Cell.h"
 
@@ -20,17 +20,10 @@ public:
     Field& operator= (const Field &other);
     Field(Field&& other);
     Field& operator=(Field&& other);
-    void printField();
     void setCell(int i, int j, Cell& cell);
-    Cell& getCell(int i, int j);
+    Cell** getCell();
     ~Field();
-    /*Field(const Field& source);
-    Field& operator= (const Field &other);
-    Field(Field&& other);
-    Field& operator= (Field&& other);
-    void setCell(int i, int j, Cell& cell);
-    Cell& getCell(int i, int j);
-    ~Field();*/
+
 
 };
 

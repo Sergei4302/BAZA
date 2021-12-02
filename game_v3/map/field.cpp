@@ -42,26 +42,17 @@ Field& Field::operator= (Field&& other) {
 
 Field::~Field() {
     for (int i = 0; i < _hight; ++i) {
-        delete cell[i];
+        delete[] cell[i];
     }
     delete cell;
 }
 
-void Field::printField() {
-    for (int i = 0; i < _hight; i++){
-        for (int j = 0; j < _width; j++){
-            std::cout << static_cast<unsigned short>(cell[i][j].getElem()) << ", "
-                      << static_cast<unsigned short>(cell[i][j].getType()) << '\t'; // Преобразование типов.
-        }
 
-        std::cout << std::endl;
-    }
-}
 
 void Field::setCell(int i, int j, Cell &cells) {
     this->cell[i][j] = cells;
 }
 
-Cell &Field::getCell(int i, int j) {
-    return this->cell[i][j];
+Cell** Field::getCell() {
+    return cell;
 }

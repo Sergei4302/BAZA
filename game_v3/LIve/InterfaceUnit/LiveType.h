@@ -4,7 +4,7 @@
 
 #ifndef UNTITLED3_LIVETYPE_H
 #define UNTITLED3_LIVETYPE_H
-enum ObjectType {hero, knight, warior, barbarian, sword, hil, bonusheal, empty};
+enum ObjectType {hero, CHILDREN, REDNECK, CAR, POWER_DRINCK, SHAWARMA, APPLE_TREE, empty};
 
 class Object{
 public:

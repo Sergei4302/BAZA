@@ -11,22 +11,22 @@
 class Cell{
 private:
     Object *object= nullptr;
-    Elem _elem;
+    //Elem _elem;
     Type _type;
 public:
     Cell();
-    Cell(Type type,Elem elem);
+    Cell(Type type);
     Cell(const Cell& other);
     Cell& operator = (const Cell& other);
     Cell(Cell&& other);
     Cell& operator = (Cell&& other);
     void SetType(Type value);
-    void SetElem(Elem elem);
+    //void SetElem(Elem elem);
     void SetObject(Object* obj);
     Object* GetObject();
     ObjectType GetObjectType();
     Type getType();
-    Elem getElem();
+  //  Elem getElem();
     bool IsMovable();
     ~Cell();
 };

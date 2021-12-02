@@ -5,7 +5,7 @@
 #ifndef GAME_V3_WCREATE_H
 #define GAME_V3_WCREATE_H
 #include "Ocreate.h"
-#include "../LIve/enemy/WARIOR.h"
+#include "../LIve/enemy/Redneck.h"
 class Wcreate:public Ocreate{
 public:
     Unit* CreateUnit() override;

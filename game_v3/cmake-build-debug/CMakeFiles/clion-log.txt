@@ -1,4 +1,5 @@
-/snap/clion/169/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=make -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/cergey/CLionProjects/game_v3
+/snap/clion/175/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=make -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -G "CodeBlocks - Unix Makefiles" /home/cergey/CLionProjects/game_v3
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
 -- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
 -- Configuring done
 -- Generating done
