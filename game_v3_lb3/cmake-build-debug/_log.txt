@@ -1,0 +1,448 @@
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 24) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 24) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 25) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 26) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 26) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 26) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 25) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 25) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 24) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 23) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 24) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 24) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 24) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 25) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 26) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 27) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (4, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (3, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (2, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: 21 
+damage: 40 
+coord: (1, 28) 
+alive: 1 
+//-----------
+
+type: Redneck
+health: -9 
+damage: 40 
+coord: (-1, -1) 
+alive: 0 
+//-----------
+
+type: Redneck
+health: -9 
+damage: 40 
+coord: (-1, -1) 
+alive: 0 
+//-----------
+
+type: Redneck
+health: -9 
+damage: 40 
+coord: (-1, -1) 
+alive: 0 
+//-----------
+
+type: Redneck
+health: -9 
+damage: 40 
+coord: (-1, -1) 
+alive: 0 
+//-----------
+
+type: Redneck
+health: -9 
+damage: 40 
+coord: (-1, -1) 
+alive: 0 
+//-----------
+
+type: Redneck
+health: -9 
+damage: 40 
+coord: (-1, -1) 
+alive: 0 
+//-----------
+
+type: Redneck
+health: -9 
+damage: 40 
+coord: (-1, -1) 
+alive: 0 
+//-----------
+

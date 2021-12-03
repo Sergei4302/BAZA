@@ -1,0 +1,3 @@
+/home/cergey/ооп/Я/BAZA/game_v3000/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cergey/ооп/Я/BAZA/game_v3000/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cergey/ооп/Я/BAZA/game_v3000/cmake-build-debug/CMakeFiles/untitled3.dir
