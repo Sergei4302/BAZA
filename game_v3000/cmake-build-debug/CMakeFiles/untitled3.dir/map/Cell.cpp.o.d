@@ -1,9 +1,9 @@
 CMakeFiles/untitled3.dir/map/Cell.cpp.o: \
- /home/cergey/CLionProjects/game_v3000/map/Cell.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3000/map/Cell.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/CLionProjects/game_v3000/map/Cell.h \
- /home/cergey/CLionProjects/game_v3000/map/../element`s/Enum.h \
- /home/cergey/CLionProjects/game_v3000/map/../Live/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/map/../Live/InterfaceUnit/LiveType.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \

@@ -57,10 +57,10 @@ RM = /snap/clion/175/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cergey/CLionProjects/game_v3000
+CMAKE_SOURCE_DIR = /home/cergey/ооп/Я/BAZA/game_v3000
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cergey/CLionProjects/game_v3000/cmake-build-debug
+CMAKE_BINARY_DIR = /home/cergey/ооп/Я/BAZA/game_v3000/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/CLionProjects/game_v3000/cmake-build-debug/CMakeFiles /home/cergey/CLionProjects/game_v3000/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/ооп/Я/BAZA/game_v3000/cmake-build-debug/CMakeFiles /home/cergey/ооп/Я/BAZA/game_v3000/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/CLionProjects/game_v3000/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/ооп/Я/BAZA/game_v3000/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,30 +128,6 @@ untitled3: cmake_check_build_system
 untitled3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/build
 .PHONY : untitled3/fast
-
-Interface/Interface.o: Interface/Interface.cpp.o
-.PHONY : Interface/Interface.o
-
-# target to build an object file
-Interface/Interface.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/Interface/Interface.cpp.o
-.PHONY : Interface/Interface.cpp.o
-
-Interface/Interface.i: Interface/Interface.cpp.i
-.PHONY : Interface/Interface.i
-
-# target to preprocess a source file
-Interface/Interface.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/Interface/Interface.cpp.i
-.PHONY : Interface/Interface.cpp.i
-
-Interface/Interface.s: Interface/Interface.cpp.s
-.PHONY : Interface/Interface.s
-
-# target to generate assembly for a file
-Interface/Interface.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/Interface/Interface.cpp.s
-.PHONY : Interface/Interface.cpp.s
 
 bilder/fieldbildertree.o: bilder/fieldbildertree.cpp.o
 .PHONY : bilder/fieldbildertree.o
@@ -306,9 +282,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled3"
-	@echo "... Interface/Interface.o"
-	@echo "... Interface/Interface.i"
-	@echo "... Interface/Interface.s"
 	@echo "... bilder/fieldbildertree.o"
 	@echo "... bilder/fieldbildertree.i"
 	@echo "... bilder/fieldbildertree.s"

@@ -1,12 +1,12 @@
 CMakeFiles/untitled3.dir/bilder/fieldbildertree.cpp.o: \
- /home/cergey/CLionProjects/game_v3000/bilder/fieldbildertree.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3000/bilder/fieldbildertree.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/CLionProjects/game_v3000/bilder/fieldbildertree.h \
- /home/cergey/CLionProjects/game_v3000/bilder/fieldbilder.h \
- /home/cergey/CLionProjects/game_v3000/bilder/../map/field.h \
- /home/cergey/CLionProjects/game_v3000/bilder/../map/Cell.h \
- /home/cergey/CLionProjects/game_v3000/bilder/../map/../element`s/Enum.h \
- /home/cergey/CLionProjects/game_v3000/bilder/../map/../Live/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/bilder/fieldbildertree.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/bilder/fieldbilder.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/bilder/../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/bilder/../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/bilder/../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3000/bilder/../map/../Live/InterfaceUnit/LiveType.h \
  /usr/include/c++/9/cstdlib \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \

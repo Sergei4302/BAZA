@@ -3,18 +3,17 @@
 #ifndef UNTITLED3_FIELD_H
 #define UNTITLED3_FIELD_H
 
-#define HIGHT 15
+#define HIGHT 17
 #define WIDTH 30
 
 #include "Cell.h"
 
-class Field: public Interface{
+class Field{
 private:
     int _hight=HIGHT;
     int _width=WIDTH;
     Cell **cell;
 public:
-   // Cell ***cell;
     Field();
     Field(const Field& source);
     Field& operator= (const Field &other);

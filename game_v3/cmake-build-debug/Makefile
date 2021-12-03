@@ -57,10 +57,10 @@ RM = /snap/clion/175/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cergey/CLionProjects/game_v3
+CMAKE_SOURCE_DIR = /home/cergey/ооп/Я/BAZA/game_v3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cergey/CLionProjects/game_v3/cmake-build-debug
+CMAKE_BINARY_DIR = /home/cergey/ооп/Я/BAZA/game_v3/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles /home/cergey/CLionProjects/game_v3/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/ооп/Я/BAZA/game_v3/cmake-build-debug/CMakeFiles /home/cergey/ооп/Я/BAZA/game_v3/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cergey/ооп/Я/BAZA/game_v3/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -224,30 +224,6 @@ Draw.s: Draw.cpp.s
 Draw.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/game_v3.dir/build.make CMakeFiles/game_v3.dir/Draw.cpp.s
 .PHONY : Draw.cpp.s
-
-Interface/Interface.o: Interface/Interface.cpp.o
-.PHONY : Interface/Interface.o
-
-# target to build an object file
-Interface/Interface.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/game_v3.dir/build.make CMakeFiles/game_v3.dir/Interface/Interface.cpp.o
-.PHONY : Interface/Interface.cpp.o
-
-Interface/Interface.i: Interface/Interface.cpp.i
-.PHONY : Interface/Interface.i
-
-# target to preprocess a source file
-Interface/Interface.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/game_v3.dir/build.make CMakeFiles/game_v3.dir/Interface/Interface.cpp.i
-.PHONY : Interface/Interface.cpp.i
-
-Interface/Interface.s: Interface/Interface.cpp.s
-.PHONY : Interface/Interface.s
-
-# target to generate assembly for a file
-Interface/Interface.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/game_v3.dir/build.make CMakeFiles/game_v3.dir/Interface/Interface.cpp.s
-.PHONY : Interface/Interface.cpp.s
 
 LIve/InterfaceUnit/LiveType.o: LIve/InterfaceUnit/LiveType.cpp.o
 .PHONY : LIve/InterfaceUnit/LiveType.o
@@ -678,9 +654,6 @@ help:
 	@echo "... Draw.o"
 	@echo "... Draw.i"
 	@echo "... Draw.s"
-	@echo "... Interface/Interface.o"
-	@echo "... Interface/Interface.i"
-	@echo "... Interface/Interface.s"
 	@echo "... LIve/InterfaceUnit/LiveType.o"
 	@echo "... LIve/InterfaceUnit/LiveType.i"
 	@echo "... LIve/InterfaceUnit/LiveType.s"

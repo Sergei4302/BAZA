@@ -1,21 +1,19 @@
 #include "start.h"
 
-#define H 15
-#define W 30
 
 void Start::start(int Evil, int things){
 
     auto bilder = new Fieldbildertree();
     auto director = new Fielddirector(bilder);
-    director->bilder_Fieldbildertree(H,W);
-    Field* field =bilder->geField(H,W);
+    director->bilder_Fieldbildertree(HIGHT,WIDTH);
+    Field* field =bilder->geField(HIGHT,WIDTH);
     delete bilder;
     Player* player =new Player();
     field->getCell()[1][1].SetObject(player);
     Unit** evil = CreateEvil(field->getCell(), Evil);
     Things** thing = CreateThing(field->getCell(), things);
 
-    RenderWindow window(VideoMode(W*40+100, H*40), "RealLive");
+    RenderWindow window(VideoMode(WIDTH*40+100, HIGHT*40), "RealLife");
     Draw draw = Draw();
     Move::Movement(&window, field, player, evil, thing, &draw, Evil, things);
 }
@@ -40,8 +38,8 @@ Unit** Start::CreateEvil(Cell** cell, int Evil) {
             evil[i] = bcreate->CreateUnit();
         }
         while(!cell[x][y].IsMovable() || cell[x][y].GetObjectType() != empty) {
-            x = rand() % (H - 2) + 1;
-            y = rand() % (W - 2) + 1;
+            x = rand() % (HIGHT - 2) + 1;
+            y = rand() % (WIDTH - 2) + 1;
         }
         evil[i]->SetCoord(x, y);
         cell[x][y].SetObject(evil[i]);

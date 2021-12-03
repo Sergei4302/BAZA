@@ -3,8 +3,8 @@
 #ifndef UNTITLED3_FIELD_H
 #define UNTITLED3_FIELD_H
 
-#define HIGHT 10
-#define WIDTH 10
+#define HIGHT 7
+#define WIDTH 5
 
 #include "Cell.h"
 

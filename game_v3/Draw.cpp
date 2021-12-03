@@ -1,5 +1,4 @@
 #include "Draw.h"
-//#include "start.h"
 #include "iostream"
 
 Draw::Draw() {
@@ -8,12 +7,12 @@ Draw::Draw() {
     textureCell[2].loadFromFile(ExitPNG);
     textureCell[3].loadFromFile(EnterPNG);
     textureObject[0].loadFromFile(HeroPNG);
-    textureObject[1].loadFromFile(EyePNG);
-    textureObject[2].loadFromFile(SpiderPNG);
+    textureObject[1].loadFromFile(ChildrenPNG);
+    textureObject[2].loadFromFile(RedneckPNG);
     textureObject[3].loadFromFile(EntPNG);
-    textureObject[4].loadFromFile(AxePNG);
-    textureObject[5].loadFromFile(CandyPNG);
-    textureObject[6].loadFromFile(CoinPNG);
+    textureObject[4].loadFromFile(PWPNG);
+    textureObject[5].loadFromFile(ShawarmaPNG);
+    textureObject[6].loadFromFile(ATPNG);
 }
 
 void Draw::DrawFieldOnWindow(Cell** cells, RenderWindow *window) {
@@ -34,7 +33,7 @@ void Draw::DrawFieldOnWindow(Cell** cells, RenderWindow *window) {
             if(objectType == hero){
                 if (!font.loadFromFile("../texture/HallFont.ttf"))
                 {
-                    std::cout << "i don't know this";
+                    std::cout << "need font.ttf";
                 }
                 text.setFont(font);
                 text.setString("HP: " + std::to_string(cells[i][j].GetObject()->GetHealth()));

@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled3.dir/Interface/Interface.cpp.o"
-  "CMakeFiles/untitled3.dir/Interface/Interface.cpp.o.d"
   "CMakeFiles/untitled3.dir/bilder/fieldbildertree.cpp.o"
   "CMakeFiles/untitled3.dir/bilder/fieldbildertree.cpp.o.d"
   "CMakeFiles/untitled3.dir/bilder/fielddirector.cpp.o"

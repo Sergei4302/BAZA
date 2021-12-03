@@ -5,12 +5,12 @@
 #ifndef GAME_V3_DRAW_H
 #define GAME_V3_DRAW_H
 #define HeroPNG "../texture/Gamer1.png"
-#define EyePNG "../texture/Children.png"
+#define ChildrenPNG "../texture/Children.png"
 #define EntPNG "../texture/Gopnik.png"
-#define SpiderPNG "../texture/Car.png"
-#define AxePNG "../texture/PowerDrink.png"
-#define CoinPNG "../texture/Apple_tree.png"
-#define CandyPNG "../texture/Shawarma.png"
+#define RedneckPNG "../texture/Car.png"
+#define PWPNG "../texture/PowerDrink.png"
+#define ATPNG "../texture/Apple_tree.png"
+#define ShawarmaPNG "../texture/Shawarma.png"
 
 #define FloorPNG "../texture/Cell1.png"
 #define EnterPNG "../texture/CellStart1.png"

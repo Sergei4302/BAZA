@@ -4,41 +4,31 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/cergey/CLionProjects/game_v3/Create/Bcreate.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/Create/Bcreate.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/Create/Kreate.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/Create/Kreate.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/Create/Wcreate.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/Create/Wcreate.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/Draw.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/Draw.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/Interface/Interface.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/Interface/Interface.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/InterfaceUnit/LiveType.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/InterfaceUnit/LiveType.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/InterfaceUnit/Unit.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/InterfaceUnit/Unit.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/PLAYER.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/PLAYER.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/Things/Apple_tree.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/Things/Apple_tree.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/Things/Power.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/Things/Power.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/Things/Shawarma.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/Things/Shawarma.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/Things/Things.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/Things/Things.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/enemy/Car.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/enemy/Car.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/enemy/Children.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/enemy/Children.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/LIve/enemy/Redneck.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/LIve/enemy/Redneck.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/Move/Move.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/Move/Move.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/bilder/fieldbildertree.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/bilder/fieldbildertree.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/bilder/fielddirector.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/bilder/fielddirector.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/main.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/main.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/map/Cell.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/map/Cell.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/map/field.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/map/field.cpp.o"
-  "/home/cergey/CLionProjects/game_v3/start.cpp" "/home/cergey/CLionProjects/game_v3/cmake-build-debug/CMakeFiles/game_v3.dir/start.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/cergey/ооп/Я/BAZA/game_v3/Create/Bcreate.cpp" "CMakeFiles/game_v3.dir/Create/Bcreate.cpp.o" "gcc" "CMakeFiles/game_v3.dir/Create/Bcreate.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/Create/Kreate.cpp" "CMakeFiles/game_v3.dir/Create/Kreate.cpp.o" "gcc" "CMakeFiles/game_v3.dir/Create/Kreate.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/Create/Wcreate.cpp" "CMakeFiles/game_v3.dir/Create/Wcreate.cpp.o" "gcc" "CMakeFiles/game_v3.dir/Create/Wcreate.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/Draw.cpp" "CMakeFiles/game_v3.dir/Draw.cpp.o" "gcc" "CMakeFiles/game_v3.dir/Draw.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/InterfaceUnit/LiveType.cpp" "CMakeFiles/game_v3.dir/LIve/InterfaceUnit/LiveType.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/InterfaceUnit/LiveType.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/InterfaceUnit/Unit.cpp" "CMakeFiles/game_v3.dir/LIve/InterfaceUnit/Unit.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/InterfaceUnit/Unit.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/PLAYER.cpp" "CMakeFiles/game_v3.dir/LIve/PLAYER.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/PLAYER.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/Things/Apple_tree.cpp" "CMakeFiles/game_v3.dir/LIve/Things/Apple_tree.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/Things/Apple_tree.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/Things/Power.cpp" "CMakeFiles/game_v3.dir/LIve/Things/Power.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/Things/Power.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/Things/Shawarma.cpp" "CMakeFiles/game_v3.dir/LIve/Things/Shawarma.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/Things/Shawarma.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/Things/Things.cpp" "CMakeFiles/game_v3.dir/LIve/Things/Things.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/Things/Things.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/enemy/Car.cpp" "CMakeFiles/game_v3.dir/LIve/enemy/Car.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/enemy/Car.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/enemy/Children.cpp" "CMakeFiles/game_v3.dir/LIve/enemy/Children.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/enemy/Children.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/LIve/enemy/Redneck.cpp" "CMakeFiles/game_v3.dir/LIve/enemy/Redneck.cpp.o" "gcc" "CMakeFiles/game_v3.dir/LIve/enemy/Redneck.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/Move/Move.cpp" "CMakeFiles/game_v3.dir/Move/Move.cpp.o" "gcc" "CMakeFiles/game_v3.dir/Move/Move.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/bilder/fieldbildertree.cpp" "CMakeFiles/game_v3.dir/bilder/fieldbildertree.cpp.o" "gcc" "CMakeFiles/game_v3.dir/bilder/fieldbildertree.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/bilder/fielddirector.cpp" "CMakeFiles/game_v3.dir/bilder/fielddirector.cpp.o" "gcc" "CMakeFiles/game_v3.dir/bilder/fielddirector.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/main.cpp" "CMakeFiles/game_v3.dir/main.cpp.o" "gcc" "CMakeFiles/game_v3.dir/main.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/map/Cell.cpp" "CMakeFiles/game_v3.dir/map/Cell.cpp.o" "gcc" "CMakeFiles/game_v3.dir/map/Cell.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/map/field.cpp" "CMakeFiles/game_v3.dir/map/field.cpp.o" "gcc" "CMakeFiles/game_v3.dir/map/field.cpp.o.d"
+  "/home/cergey/ооп/Я/BAZA/game_v3/start.cpp" "CMakeFiles/game_v3.dir/start.cpp.o" "gcc" "CMakeFiles/game_v3.dir/start.cpp.o.d"
   )
 
 # Targets to which this target links.
