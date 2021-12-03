@@ -62,6 +62,6 @@ void Field::setCell(int i, int j, Cell &cells) {
     this->cell[i][j] = cells;
 }
 
-Cell &Field::getCell(int i, int j) {
-    return this->cell[i][j];
+Cell** Field::getCell() {
+    return cell;
 }

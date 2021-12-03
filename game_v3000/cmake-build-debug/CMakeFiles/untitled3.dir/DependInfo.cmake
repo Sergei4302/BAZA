@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/cergey/CLionProjects/game_v3/Interface/Interface.cpp" "CMakeFiles/untitled3.dir/Interface/Interface.cpp.o" "gcc" "CMakeFiles/untitled3.dir/Interface/Interface.cpp.o.d"
-  "/home/cergey/CLionProjects/game_v3/bilder/fieldbildertree.cpp" "CMakeFiles/untitled3.dir/bilder/fieldbildertree.cpp.o" "gcc" "CMakeFiles/untitled3.dir/bilder/fieldbildertree.cpp.o.d"
-  "/home/cergey/CLionProjects/game_v3/bilder/fielddirector.cpp" "CMakeFiles/untitled3.dir/bilder/fielddirector.cpp.o" "gcc" "CMakeFiles/untitled3.dir/bilder/fielddirector.cpp.o.d"
-  "/home/cergey/CLionProjects/game_v3/main.cpp" "CMakeFiles/untitled3.dir/main.cpp.o" "gcc" "CMakeFiles/untitled3.dir/main.cpp.o.d"
-  "/home/cergey/CLionProjects/game_v3/map/Cell.cpp" "CMakeFiles/untitled3.dir/map/Cell.cpp.o" "gcc" "CMakeFiles/untitled3.dir/map/Cell.cpp.o.d"
-  "/home/cergey/CLionProjects/game_v3/map/field.cpp" "CMakeFiles/untitled3.dir/map/field.cpp.o" "gcc" "CMakeFiles/untitled3.dir/map/field.cpp.o.d"
-  "/home/cergey/CLionProjects/game_v3/start.cpp" "CMakeFiles/untitled3.dir/start.cpp.o" "gcc" "CMakeFiles/untitled3.dir/start.cpp.o.d"
+  "/home/cergey/CLionProjects/game_v3000/Interface/Interface.cpp" "CMakeFiles/untitled3.dir/Interface/Interface.cpp.o" "gcc" "CMakeFiles/untitled3.dir/Interface/Interface.cpp.o.d"
+  "/home/cergey/CLionProjects/game_v3000/bilder/fieldbildertree.cpp" "CMakeFiles/untitled3.dir/bilder/fieldbildertree.cpp.o" "gcc" "CMakeFiles/untitled3.dir/bilder/fieldbildertree.cpp.o.d"
+  "/home/cergey/CLionProjects/game_v3000/bilder/fielddirector.cpp" "CMakeFiles/untitled3.dir/bilder/fielddirector.cpp.o" "gcc" "CMakeFiles/untitled3.dir/bilder/fielddirector.cpp.o.d"
+  "/home/cergey/CLionProjects/game_v3000/main.cpp" "CMakeFiles/untitled3.dir/main.cpp.o" "gcc" "CMakeFiles/untitled3.dir/main.cpp.o.d"
+  "/home/cergey/CLionProjects/game_v3000/map/Cell.cpp" "CMakeFiles/untitled3.dir/map/Cell.cpp.o" "gcc" "CMakeFiles/untitled3.dir/map/Cell.cpp.o.d"
+  "/home/cergey/CLionProjects/game_v3000/map/field.cpp" "CMakeFiles/untitled3.dir/map/field.cpp.o" "gcc" "CMakeFiles/untitled3.dir/map/field.cpp.o.d"
+  "/home/cergey/CLionProjects/game_v3000/start.cpp" "CMakeFiles/untitled3.dir/start.cpp.o" "gcc" "CMakeFiles/untitled3.dir/start.cpp.o.d"
   )
 
 # Targets to which this target links.

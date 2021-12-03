@@ -5,10 +5,12 @@
 
 #include "bilder/fielddirector.h"
 #include "bilder/fieldbildertree.h"
+#include "map/field.h"
+#include "map/Cell.h"
 
 class Start{
 public:
-    static void start(int h, int w);
+    static void start();
 };
 
 #endif //UNTITLED3_START_H

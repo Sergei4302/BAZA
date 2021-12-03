@@ -1,7 +1,10 @@
 #include "Cell.h"
+#include "iostream"
 
-Cell::Cell(Type t, Elem e, Interface *i) : _type(t),_elem(e), interface(i) {
-
+Cell::Cell() {};
+Cell::Cell(Type type, Elem elem) {
+    _type=type;
+    _elem=elem;
 }
 
 
@@ -26,16 +29,31 @@ void Cell::setElem(Elem elem) {
     _elem=elem;
 }
 
-Interface *Cell::get_interface() {
-    return this->interface;
+Cell::Cell(const Cell &other) {
+
 }
 
 Cell &Cell::operator=(const Cell &other) {
     if (this != &other) {
-        *this->interface = *other.interface;
+        *this->object = *other.object;
         this->_type = other._type;
         this->_elem = other._elem;
     }
     return *this;
 }
+
+Cell::Cell(Cell &&other) {
+    std::swap(this->_type, other._type);
+    std::swap(this->_elem, other._elem);
+}
+
+Cell &Cell::operator=(Cell &&other) {
+    if(this != &other){
+        std::swap(this->_type, other._type);
+        std::swap(this->_elem, other._elem);
+    }
+    return *this;
+}
+
+
 

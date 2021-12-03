@@ -1,6 +1,6 @@
 CMakeFiles/untitled3.dir/main.cpp.o: \
- /home/cergey/CLionProjects/game_v3/main.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/9/iostream \
+ /home/cergey/CLionProjects/game_v3000/main.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -136,15 +136,13 @@ CMakeFiles/untitled3.dir/main.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/CLionProjects/game_v3/start.h \
- /home/cergey/CLionProjects/game_v3/bilder/fielddirector.h \
- /home/cergey/CLionProjects/game_v3/bilder/fieldbilder.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/field.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/Cell.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/../element`s/Enum.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/../element`s/Item.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/../element`s/Enum.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/../element`s/Player.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/../element`s/Enemy.h \
- /home/cergey/CLionProjects/game_v3/bilder/../map/../Interface/Interface.h \
- /home/cergey/CLionProjects/game_v3/bilder/fieldbildertree.h
+ /home/cergey/CLionProjects/game_v3000/start.h \
+ /home/cergey/CLionProjects/game_v3000/bilder/fielddirector.h \
+ /home/cergey/CLionProjects/game_v3000/bilder/fieldbilder.h \
+ /home/cergey/CLionProjects/game_v3000/bilder/../map/field.h \
+ /home/cergey/CLionProjects/game_v3000/bilder/../map/Cell.h \
+ /home/cergey/CLionProjects/game_v3000/bilder/../map/../element`s/Enum.h \
+ /home/cergey/CLionProjects/game_v3000/bilder/../map/../Live/InterfaceUnit/LiveType.h \
+ /home/cergey/CLionProjects/game_v3000/bilder/fieldbildertree.h \
+ /home/cergey/CLionProjects/game_v3000/map/field.h \
+ /home/cergey/CLionProjects/game_v3000/map/Cell.h

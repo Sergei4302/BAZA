@@ -8,29 +8,22 @@
 
 #include "Cell.h"
 
-class Field: public Interface{
+class Field{
 private:
     int _hight=HIGHT;
     int _width=WIDTH;
     Cell **cell;
 public:
-   // Cell ***cell;
+
     Field();
     Field(const Field& source);
     Field& operator= (const Field &other);
     Field(Field&& other);
-    Field& operator=(Field&& other);
     void printField();
+    Field& operator=(Field&& other);
     void setCell(int i, int j, Cell& cell);
-    Cell& getCell(int i, int j);
+    Cell** getCell();
     ~Field();
-    /*Field(const Field& source);
-    Field& operator= (const Field &other);
-    Field(Field&& other);
-    Field& operator= (Field&& other);
-    void setCell(int i, int j, Cell& cell);
-    Cell& getCell(int i, int j);
-    ~Field();*/
 
 };
 

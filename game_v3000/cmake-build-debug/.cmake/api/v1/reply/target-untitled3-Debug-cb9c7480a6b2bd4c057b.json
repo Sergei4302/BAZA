@@ -58,7 +58,7 @@
 				7,
 				8,
 				10,
-				17
+				14
 			]
 		}
 	],
@@ -97,7 +97,7 @@
 				7,
 				8,
 				10,
-				17
+				14
 			]
 		},
 		{
@@ -112,9 +112,7 @@
 				11,
 				12,
 				13,
-				14,
-				15,
-				16
+				15
 			]
 		}
 	],
@@ -193,21 +191,6 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "element`s/Item.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "element`s/Player.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "element`s/Enemy.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
 			"path" : "Interface/Interface.h",
 			"sourceGroupIndex" : 1
 		},
@@ -216,6 +199,11 @@
 			"compileGroupIndex" : 0,
 			"path" : "Interface/Interface.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Live/InterfaceUnit/LiveType.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
