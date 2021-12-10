@@ -1,0 +1,6 @@
+type: Player
+health: 100 
+damage: 20 
+coord: (1, 1) 
+//-----------
+
