@@ -1,0 +1,42 @@
+type: Player
+health: 100 
+damage: 20 
+coord: (1, 1) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (1, 1) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (2, 1) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (2, 2) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (2, 2) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (3, 2) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (4, 2) 
+---------------
+

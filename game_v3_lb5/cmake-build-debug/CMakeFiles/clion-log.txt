@@ -1,0 +1,6 @@
+/snap/clion/175/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=make -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -G "CodeBlocks - Unix Makefiles" /home/cergey/ооп/Я/BAZA/game_v3_lb4
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cergey/ооп/Я/BAZA/game_v3_lb4/cmake-build-debug
