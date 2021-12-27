@@ -1,10 +1,10 @@
 CMakeFiles/game_v3.dir/LIve/Things/Shawarma.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Shawarma.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Shawarma.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Shawarma.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Things.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Shawarma.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Things.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -147,11 +147,11 @@ CMakeFiles/game_v3.dir/LIve/Things/Shawarma.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/../../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../PLAYER.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/../../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/../../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/../InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/../../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../PLAYER.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/../../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/../../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/../InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h

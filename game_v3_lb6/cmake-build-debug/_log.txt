@@ -13,13 +13,19 @@ coord: (1, 1)
 type: Player
 health: 100 
 damage: 20 
+coord: (1, 1) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
 coord: (2, 1) 
 ---------------
 
 type: Player
 health: 100 
 damage: 20 
-coord: (2, 2) 
+coord: (3, 1) 
 ---------------
 
 type: Player
@@ -49,222 +55,42 @@ coord: (3, 5)
 type: Player
 health: 100 
 damage: 20 
+coord: (3, 6) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (3, 3) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
+coord: (3, 4) 
+---------------
+
+type: Player
+health: 100 
+damage: 20 
 coord: (3, 5) 
 ---------------
 
 type: Player
 health: 100 
 damage: 20 
-coord: (3, 6) 
+coord: (3, 3) 
 ---------------
 
 type: Player
 health: 100 
 damage: 20 
-coord: (3, 6) 
+coord: (3, 4) 
 ---------------
 
 type: Player
 health: 100 
 damage: 20 
-coord: (4, 6) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (4, 7) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (4, 8) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 8) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 9) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 10) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 11) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 12) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 13) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 10) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 11) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (4, 11) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (4, 12) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 12) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 13) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 14) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (4, 14) 
----------------
-
-type: Player
-health: 130 
-damage: 20 
-coord: (4, 14) 
----------------
-
-type: Player
-health: 130 
-damage: 20 
-coord: (3, 14) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 15) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 15) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 14) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 13) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 13) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (2, 13) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (1, 13) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 15) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 16) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (3, 17) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (4, 17) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (5, 17) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (5, 17) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (5, 17) 
----------------
-
-type: Player
-health: 100 
-damage: 20 
-coord: (5, 17) 
+coord: (3, 5) 
 ---------------
 

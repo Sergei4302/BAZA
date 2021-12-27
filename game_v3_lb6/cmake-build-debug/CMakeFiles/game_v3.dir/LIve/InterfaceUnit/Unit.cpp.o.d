@@ -1,9 +1,9 @@
 CMakeFiles/game_v3.dir/LIve/InterfaceUnit/Unit.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/Unit.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/Unit.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -146,8 +146,8 @@ CMakeFiles/game_v3.dir/LIve/InterfaceUnit/Unit.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/../../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/../../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/../../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/../../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/../../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/../../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h

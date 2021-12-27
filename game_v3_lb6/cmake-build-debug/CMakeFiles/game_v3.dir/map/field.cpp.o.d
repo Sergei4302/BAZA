@@ -1,11 +1,11 @@
 CMakeFiles/game_v3.dir/map/field.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/map/field.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/map/field.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/map/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/map/../LIve/InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/map/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/map/../LIve/InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -148,4 +148,4 @@ CMakeFiles/game_v3.dir/map/field.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/map/../LIve/InterfaceUnit/../../Loger/Observer.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/map/../LIve/InterfaceUnit/../../Loger/Observer.h

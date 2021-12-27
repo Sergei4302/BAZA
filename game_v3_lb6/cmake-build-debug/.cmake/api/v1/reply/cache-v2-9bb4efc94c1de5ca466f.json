@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug"
+			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -191,11 +191,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "g++"
+			"type" : "STRING",
+			"value" : "/usr/bin/g++"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -319,11 +319,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "gcc"
+			"type" : "STRING",
+			"value" : "/usr/bin/gcc"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb5"
+			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb6"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug"
+			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug"
 		},
 		{
 			"name" : "game_v3_IS_TOP_LEVEL",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb5"
+			"value" : "/home/cergey/ооп/Я/BAZA/game_v3_lb6"
 		}
 	],
 	"kind" : "cache",

@@ -1,7 +1,7 @@
 CMakeFiles/game_v3.dir/Loger/FileLogger.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/FileLogger.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/FileLogger.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/FileLogger.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/FileLogger.h \
  /usr/include/c++/9/fstream /usr/include/c++/9/istream \
  /usr/include/c++/9/ios /usr/include/c++/9/iosfwd \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
@@ -147,7 +147,7 @@ CMakeFiles/game_v3.dir/Loger/FileLogger.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/9/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
  /usr/include/c++/9/bits/fstream.tcc /usr/include/c++/9/iostream \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Subject.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Decorator.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/LoggerImplication.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Decorator.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/LoggerImplication.h

@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug"/>
+				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug"/>
+				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug"/>
+				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="game_v3">
-				<Option output="/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/game_v3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug"/>
+				<Option output="/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/game_v3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_v3"/>
-					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_v3"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="game_v3/fast">
-				<Option output="/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/game_v3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug"/>
+				<Option output="/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/game_v3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,239 +75,239 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_v3/fast"/>
-					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_v3/fast"/>
+					<CompileFile command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j4 -f &quot;/home/cergey/ооп/Я/BAZA/game_v3_lb6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/CarCreate.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/CarCreate.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/CarCreate.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/CarCreate.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/ChiCreate.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/ChiCreate.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/Kreate.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/Kreate.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/Ocreate.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/Ocreate.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/RedCreate.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/RedCreate.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/RedCreate.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/RedCreate.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/Draw.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/Draw.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/Draw.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/Draw.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/LiveType.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/LiveType.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/LiveType.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/LiveType.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/Unit.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/Unit.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/InterfaceUnit/Unit.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/InterfaceUnit/Unit.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/PLAYER.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/PLAYER.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/PLAYER.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/PLAYER.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Apple_tree.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Apple_tree.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Apple_tree.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Apple_tree.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Power_Drink.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Power_Drink.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Power_Drink.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Power_Drink.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Shawarma.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Shawarma.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Shawarma.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Shawarma.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Things.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Things.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/Things/Things.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/Things/Things.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Car.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Car.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Car.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Car.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Children.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Children.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Children.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Children.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Redneck.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Redneck.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Redneck.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Redneck.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/ConcreteLog.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/ConcreteLog.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/ConsoleLogger.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/ConsoleLogger.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/ConsoleLogger.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/ConsoleLogger.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Decorator.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Decorator.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Decorator.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Decorator.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/FileLogger.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/FileLogger.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/FileLogger.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/FileLogger.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Logger.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Logger.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Logger.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Logger.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Observer.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Observer.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Subject.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Subject.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Loger/Subject.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Loger/Subject.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/Key.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/Key.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/Move.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/Move.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/Move.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/Move.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/NewStart.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/NewStart.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/NewStart.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/NewStart.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Rules/RulesEnemy.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Rules/RulesEnemy.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Rules/RulesThings.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Rules/RulesThings.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/Boss.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/Boss.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/Boss.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/Boss.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/MiniBoss.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/MiniBoss.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/MiniBoss.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/MiniBoss.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/Save.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/Save.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/Save.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/Save.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/SaveOther.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/SaveOther.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/SaveOther.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/SaveOther.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/SavePlayer.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/SavePlayer.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/SavePlayer.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/SavePlayer.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fieldbilder.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fieldbilder.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fieldbildertree.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fieldbildertree.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fieldbildertree.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fieldbildertree.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fielddirector.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fielddirector.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fielddirector.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fielddirector.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/element`s/Enum.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/element`s/Enum.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/main.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/main.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/map/Cell.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/map/Cell.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/map/Cell.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/map/Cell.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/map/field.cpp">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/map/field.cpp">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/map/field.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/map/field.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/start.h">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/start.h">
 			<Option target="game_v3"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/CMakeLists.txt">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb5/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
+		<Unit filename="/home/cergey/ооп/Я/BAZA/game_v3_lb6/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
 		</Unit>
 	</Project>

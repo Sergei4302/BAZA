@@ -1,7 +1,7 @@
 CMakeFiles/game_v3.dir/Save/Boss.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/Boss.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/Boss.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/Boss.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/Boss.h \
  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
  /usr/include/SFML/System.hpp /usr/include/SFML/Config.hpp \
  /usr/include/SFML/System/Clock.hpp /usr/include/SFML/System/Export.hpp \

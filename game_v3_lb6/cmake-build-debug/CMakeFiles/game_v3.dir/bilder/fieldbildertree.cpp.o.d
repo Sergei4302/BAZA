@@ -1,13 +1,13 @@
 CMakeFiles/game_v3.dir/bilder/fieldbildertree.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fieldbildertree.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fieldbildertree.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fieldbildertree.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/fieldbilder.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/../map/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/../map/../LIve/InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fieldbildertree.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/fieldbilder.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/../map/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/../map/../LIve/InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -150,4 +150,4 @@ CMakeFiles/game_v3.dir/bilder/fieldbildertree.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/bilder/../map/../LIve/InterfaceUnit/../../Loger/Observer.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/bilder/../map/../LIve/InterfaceUnit/../../Loger/Observer.h

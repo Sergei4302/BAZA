@@ -1,11 +1,11 @@
 CMakeFiles/game_v3.dir/Save/SavePlayer.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/SavePlayer.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/SavePlayer.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/SavePlayer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/PLAYER.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/SavePlayer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/PLAYER.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -148,12 +148,12 @@ CMakeFiles/game_v3.dir/Save/SavePlayer.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/../../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/../../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/../../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../LIve/InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../Loger/Logger.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../Loger/Subject.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Save/../Loger/LoggerImplication.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/../../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/../../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/../../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../LIve/InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../Loger/Logger.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Save/../Loger/LoggerImplication.h

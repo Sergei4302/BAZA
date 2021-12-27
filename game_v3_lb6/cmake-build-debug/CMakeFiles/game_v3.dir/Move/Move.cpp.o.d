@@ -1,12 +1,12 @@
 CMakeFiles/game_v3.dir/Move/Move.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/Move.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/Move.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/Move.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../map/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../map/../LIve/InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/Move.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../map/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../map/../LIve/InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -149,19 +149,19 @@ CMakeFiles/game_v3.dir/Move/Move.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../map/../LIve/InterfaceUnit/../../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/PLAYER.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/Things/Things.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/Things/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/Things/../PLAYER.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/Things/../InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/Things/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../LIve/Things/../InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../map/../LIve/InterfaceUnit/../../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/PLAYER.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/Things/Things.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/Things/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/Things/../PLAYER.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/Things/../InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/Things/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../LIve/Things/../InterfaceUnit/../../map/field.h \
  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
  /usr/include/SFML/System.hpp /usr/include/SFML/Config.hpp \
  /usr/include/SFML/System/Clock.hpp /usr/include/SFML/System/Export.hpp \
@@ -249,40 +249,40 @@ CMakeFiles/game_v3.dir/Move/Move.cpp.o: \
  /usr/include/SFML/Graphics/Sprite.hpp \
  /usr/include/SFML/Graphics/Text.hpp \
  /usr/include/SFML/Graphics/VertexBuffer.hpp \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Draw/Draw.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Draw/../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Draw/../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Loger/Logger.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Loger/Subject.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Loger/LoggerImplication.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/Key.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/Save.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/SavePlayer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/PLAYER.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../Loger/Logger.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/SaveOther.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/Things.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/../PLAYER.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/../InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/../InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../Draw/Draw.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/Apple_tree.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/Things.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/Power_Drink.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/Things/Shawarma.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/enemy/Children.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/enemy/../InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/enemy/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/enemy/../InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/enemy/Car.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Move/../Save/../LIve/enemy/Redneck.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Draw/Draw.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Draw/../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Draw/../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Loger/Logger.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Loger/LoggerImplication.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/Key.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/Save.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/SavePlayer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/PLAYER.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../Loger/Logger.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/SaveOther.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/Things.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/../PLAYER.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/../InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/../InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../Draw/Draw.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/Apple_tree.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/Things.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/Power_Drink.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/Things/Shawarma.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/enemy/Children.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/enemy/../InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/enemy/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/enemy/../InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/enemy/Car.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Move/../Save/../LIve/enemy/Redneck.h \
  /usr/include/c++/9/fstream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \

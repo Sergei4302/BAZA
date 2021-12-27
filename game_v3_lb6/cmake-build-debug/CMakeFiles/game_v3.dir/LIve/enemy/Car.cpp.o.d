@@ -1,10 +1,10 @@
 CMakeFiles/game_v3.dir/LIve/enemy/Car.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Car.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Car.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/Car.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/Car.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -147,8 +147,8 @@ CMakeFiles/game_v3.dir/LIve/enemy/Car.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/../../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/../../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/../../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/LIve/enemy/../InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/../../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/../../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/../../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/LIve/enemy/../InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h

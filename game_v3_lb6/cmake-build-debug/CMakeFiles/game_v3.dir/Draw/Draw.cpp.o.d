@@ -1,7 +1,7 @@
 CMakeFiles/game_v3.dir/Draw/Draw.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/Draw.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/Draw.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/Draw.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/Draw.h \
  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
  /usr/include/SFML/System.hpp /usr/include/SFML/Config.hpp \
  /usr/include/SFML/System/Clock.hpp /usr/include/SFML/System/Export.hpp \
@@ -232,11 +232,11 @@ CMakeFiles/game_v3.dir/Draw/Draw.cpp.o: \
  /usr/include/SFML/Graphics/Sprite.hpp \
  /usr/include/SFML/Graphics/Text.hpp \
  /usr/include/SFML/Graphics/VertexBuffer.hpp \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/../map/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/../map/../LIve/InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/../map/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/../map/../LIve/InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/../map/../LIve/InterfaceUnit/../../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Draw/../map/Cell.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/../map/../LIve/InterfaceUnit/../../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Draw/../map/Cell.h

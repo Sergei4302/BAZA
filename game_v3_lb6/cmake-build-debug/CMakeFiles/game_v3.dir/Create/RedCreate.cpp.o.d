@@ -1,11 +1,11 @@
 CMakeFiles/game_v3.dir/Create/RedCreate.cpp.o: \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/RedCreate.cpp \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/RedCreate.cpp \
  /usr/include/stdc-predef.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/RedCreate.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/Ocreate.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/../../Loger/Subject.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/RedCreate.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/Ocreate.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/../../Loger/Subject.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -148,12 +148,12 @@ CMakeFiles/game_v3.dir/Create/RedCreate.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/../../Loger/Observer.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/../../map/field.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/../../map/Cell.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/../../map/../element`s/Enum.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/enemy/Redneck.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/enemy/../InterfaceUnit/Unit.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/enemy/../InterfaceUnit/LiveType.h \
- /home/cergey/ооп/Я/BAZA/game_v3_lb5/Create/../LIve/enemy/../InterfaceUnit/../../map/field.h
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/../../Loger/Observer.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/../../map/field.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/../../map/Cell.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/../../map/../element`s/Enum.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/InterfaceUnit/../../map/../LIve/InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/enemy/Redneck.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/enemy/../InterfaceUnit/Unit.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/enemy/../InterfaceUnit/LiveType.h \
+ /home/cergey/ооп/Я/BAZA/game_v3_lb6/Create/../LIve/enemy/../InterfaceUnit/../../map/field.h
